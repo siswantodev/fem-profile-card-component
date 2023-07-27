@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor Challenge Solution]()
-- Live Site URL: [Profile Card Component](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Challenge Solution](https://www.frontendmentor.io/solutions/profile-card-component-using-grid-flexbox-sass-bem-MVXiuzS8bM)
+- Live Site URL: [Profile Card Component](https://fem-profile-card-component-good.netlify.app)
 
 ## My process
 
